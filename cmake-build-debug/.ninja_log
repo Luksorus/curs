@@ -1,0 +1,12 @@
+# ninja log v5
+0	119	7381021780622375	build.ninja	43fb4a03c5425dde
+3	4536	7380820915753478	CMakeFiles/Curs.dir/main.cpp.obj	e6d884990ef22636
+12	104	7379963823398838	CMakeFiles/Curs.dir/Informs/res_dis/reshenie_diskr.cpp.obj	aa9389ea4535ab9a
+16	135	7380227865369905	CMakeFiles/Curs.dir/Error_cl/inf_err.cpp.obj	41d7c48d514f2293
+2573	2747	7380791328004346	Curs.exe	d39e21a4a051dc58
+12	961	7379963104652091	CMakeFiles/Curs.dir/Informs/informs.cpp.obj	258cf4d1311f0a4f
+23	1578	7380228907163723	CMakeFiles/Curs.dir/Calculator/Calculator.cpp.obj	37abbdc0ee7ca066
+15	1345	7379967577900350	CMakeFiles/Curs.dir/res_dis/reshenie_diskr.cpp.obj	9b28fda87088a653
+12	117	7380306104244234	CMakeFiles/Curs.dir/Settings/Settings.cpp.obj	bdd5d2ae5351220f
+3	2327	7391496788890503	CMakeFiles/Curs.dir/main.cpp.obj	e6d884990ef22636
+2327	2545	7391496791052849	Curs.exe	d39e21a4a051dc58

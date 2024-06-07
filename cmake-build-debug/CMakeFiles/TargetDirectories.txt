@@ -1,0 +1,3 @@
+C:/Users/lore-/CLionProjects/Curs/cmake-build-debug/CMakeFiles/Curs.dir
+C:/Users/lore-/CLionProjects/Curs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lore-/CLionProjects/Curs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
